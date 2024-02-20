@@ -1,19 +1,11 @@
 class Solution {
     public int missingNumber(int[] nums) {
-        int n = nums.length;
-        int missing = 0;
-    for(int i=0; i<=n; i++){
-        int flag =0;
-    for(int j=0; j<n; j++){
-        if(nums[j]==i){
-            flag=1;
-            break;
-        }
+      int n = nums.length;
+      int sum = (n*(n+1))/2;
+    int arraysum =0;
+    for(int i=0; i<n; i++){
+        arraysum = arraysum + nums[i];
     }
-     if(flag==0){
-         missing = i;
-     }
-    }
-        return missing;
+        return sum-arraysum;
     }
 }
