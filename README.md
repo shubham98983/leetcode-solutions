@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/shubham98983/leetcode-solutions/tree/master/0733-flood-fill) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/shubham98983/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -13,8 +14,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/shubham98983/leetcode-solutions/tree/master/0733-flood-fill) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/shubham98983/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Matrix
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/shubham98983/leetcode-solutions/tree/master/0733-flood-fill) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/shubham98983/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 <!---LeetCode Topics End-->
