@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shubham98983/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/shubham98983/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/shubham98983/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0733-flood-fill](https://github.com/shubham98983/leetcode-solutions/tree/master/0733-flood-fill) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/shubham98983/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Depth-First Search
