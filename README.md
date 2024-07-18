@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/shubham98983/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0283-move-zeroes](https://github.com/shubham98983/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/shubham98983/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/shubham98983/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/shubham98983/leetcode-solutions/tree/master/0733-flood-fill) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/shubham98983/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shubham98983/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shubham98983/leetcode-solutions/tree/master/0001-two-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/shubham98983/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shubham98983/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/shubham98983/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
