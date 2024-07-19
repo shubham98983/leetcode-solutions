@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/shubham98983/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/shubham98983/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/shubham98983/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0792-binary-search](https://github.com/shubham98983/leetcode-solutions/tree/master/0792-binary-search) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/shubham98983/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shubham98983/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Depth-First Search
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/shubham98983/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shubham98983/leetcode-solutions/tree/master/0009-palindrome-number) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/shubham98983/leetcode-solutions/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
