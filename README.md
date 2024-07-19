@@ -56,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/shubham98983/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/shubham98983/leetcode-solutions/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
