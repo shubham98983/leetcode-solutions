@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/shubham98983/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/shubham98983/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/shubham98983/leetcode-solutions/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/shubham98983/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/shubham98983/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shubham98983/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Depth-First Search
@@ -80,4 +81,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/shubham98983/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shubham98983/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/shubham98983/leetcode-solutions/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/shubham98983/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 <!---LeetCode Topics End-->
