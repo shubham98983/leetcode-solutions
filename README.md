@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/shubham98983/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shubham98983/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/shubham98983/leetcode-solutions/tree/master/0231-power-of-two) |
 ## Binary Search
 |  |
 | ------- |
@@ -98,4 +99,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/shubham98983/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/shubham98983/leetcode-solutions/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/shubham98983/leetcode-solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
