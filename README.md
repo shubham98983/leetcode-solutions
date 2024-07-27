@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shubham98983/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shubham98983/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/shubham98983/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/shubham98983/leetcode-solutions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shubham98983/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/shubham98983/leetcode-solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shubham98983/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/shubham98983/leetcode-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/shubham98983/leetcode-solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/shubham98983/leetcode-solutions/tree/master/0231-power-of-two) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/shubham98983/leetcode-solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/shubham98983/leetcode-solutions/tree/master/0231-power-of-two) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/shubham98983/leetcode-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
