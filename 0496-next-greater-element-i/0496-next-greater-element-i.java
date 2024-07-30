@@ -3,26 +3,22 @@ class Solution {
         int m = nums1.length;
         int n = nums2.length;
         Stack<Integer> st = new Stack<>();
-        int greater[] = new int[n];
+        HashMap<Integer , Integer> hm = new HashMap<>();
         for(int i=n-1; i>=0; i--){
             while(!st.isEmpty() && st.peek()<=nums2[i]){
                 st.pop();
             }
             if(st.isEmpty()){
-                greater[i]=-1;
+                hm.put(nums2[i],-1);
                 st.push(nums2[i]);
             }else{
-                greater[i]=st.peek();
+               hm.put(nums2[i],st.peek());
                 st.push(nums2[i]);
             }
         }
         int ans[] = new int[m];
         for(int i=0; i<m; i++){
-         for(int j=0; j<n; j++){
-            if(nums1[i]==nums2[j]){
-                ans[i]=greater[j];
-            }
-         }
+           ans[i]=hm.get(nums1[i]);
         }
         return ans;
     }
