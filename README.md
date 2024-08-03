@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/shubham98983/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/shubham98983/leetcode-solutions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shubham98983/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/shubham98983/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/shubham98983/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/shubham98983/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shubham98983/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/shubham98983/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0225-implement-stack-using-queues](https://github.com/shubham98983/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shubham98983/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/shubham98983/leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -141,5 +143,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/shubham98983/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/shubham98983/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
