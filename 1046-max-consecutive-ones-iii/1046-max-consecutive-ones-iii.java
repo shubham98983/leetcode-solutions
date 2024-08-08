@@ -9,7 +9,7 @@ class Solution {
             if(nums[r]==0){
                 k--;
             }
-            while(k<0){
+            if(k<0){
                 if(nums[l]==0){
                     k++;
                 }
