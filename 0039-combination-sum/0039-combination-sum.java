@@ -1,21 +1,24 @@
 class Solution {
-    public static void findCombinations(int idx,int[] arr,int target,List<List<Integer>> ans,List<Integer> ds){
+    public static void findCombinations(int idx,int[] arr,int target,List<List<Integer>> ans,List<Integer> ds,int sum){
+        if(sum>target){
+            return;
+        }
         if(idx==arr.length){
-          if(target==0){
+          if(target==sum){
             ans.add(new ArrayList<>(ds));
           }
-          return;
+           return;
         }
-        if(arr[idx]<=target){
           ds.add(arr[idx]);
-          findCombinations(idx,arr,target-arr[idx],ans,ds);
+          sum = sum+arr[idx];
+          findCombinations(idx,arr,target,ans,ds,sum);
           ds.remove(ds.size()-1);
-        }
-        findCombinations(idx+1,arr,target,ans,ds);
+          sum = sum-arr[idx];
+        findCombinations(idx+1,arr,target,ans,ds,sum);
     }
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
         List<List<Integer>>  ans = new ArrayList<>();
-        findCombinations(0,candidates,target,ans,new ArrayList<>());
+        findCombinations(0,candidates,target,ans,new ArrayList<>(),0);
         return ans;
     }
 }
