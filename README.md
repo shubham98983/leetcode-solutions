@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/shubham98983/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shubham98983/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/shubham98983/leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0216-combination-sum-iii](https://github.com/shubham98983/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0260-single-number-iii](https://github.com/shubham98983/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/shubham98983/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/shubham98983/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/shubham98983/leetcode-solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/shubham98983/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/shubham98983/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/shubham98983/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 ## Stack
 |  |
 | ------- |
