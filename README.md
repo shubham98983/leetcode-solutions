@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/shubham98983/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shubham98983/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0060-permutation-sequence](https://github.com/shubham98983/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/shubham98983/leetcode-solutions/tree/master/0231-power-of-two) |
 | [1370-count-number-of-nice-subarrays](https://github.com/shubham98983/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 ## Binary Search
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/shubham98983/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/shubham98983/leetcode-solutions/tree/master/0231-power-of-two) |
 ## Backtracking
 |  |
