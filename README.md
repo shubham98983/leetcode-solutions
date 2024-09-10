@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/shubham98983/leetcode-solutions/tree/master/0258-add-digits) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shubham98983/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Prefix Sum
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/shubham98983/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0204-count-primes](https://github.com/shubham98983/leetcode-solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/shubham98983/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/shubham98983/leetcode-solutions/tree/master/0258-add-digits) |
 | [1370-count-number-of-nice-subarrays](https://github.com/shubham98983/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 ## Binary Search
 |  |
@@ -210,4 +212,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/shubham98983/leetcode-solutions/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/shubham98983/leetcode-solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
