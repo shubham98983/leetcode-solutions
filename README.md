@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2083-three-divisors](https://github.com/shubham98983/leetcode-solutions/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/shubham98983/leetcode-solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/shubham98983/leetcode-solutions/tree/master/2491-smallest-even-multiple) |
+| [2556-convert-the-temperature](https://github.com/shubham98983/leetcode-solutions/tree/master/2556-convert-the-temperature) |
 ## Binary Search
 |  |
 | ------- |
