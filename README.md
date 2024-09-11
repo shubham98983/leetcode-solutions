@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/shubham98983/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [2083-three-divisors](https://github.com/shubham98983/leetcode-solutions/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/shubham98983/leetcode-solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2491-smallest-even-multiple](https://github.com/shubham98983/leetcode-solutions/tree/master/2491-smallest-even-multiple) |
 ## Binary Search
 |  |
 | ------- |
@@ -219,4 +220,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/shubham98983/leetcode-solutions/tree/master/0258-add-digits) |
 | [2083-three-divisors](https://github.com/shubham98983/leetcode-solutions/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/shubham98983/leetcode-solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2491-smallest-even-multiple](https://github.com/shubham98983/leetcode-solutions/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
