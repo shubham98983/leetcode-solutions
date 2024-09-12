@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/shubham98983/leetcode-solutions/tree/master/1646-kth-missing-positive-number) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/shubham98983/leetcode-solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shubham98983/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/shubham98983/leetcode-solutions/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/shubham98983/leetcode-solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/shubham98983/leetcode-solutions/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/shubham98983/leetcode-solutions/tree/master/2507-number-of-common-factors) |
+| [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/shubham98983/leetcode-solutions/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2556-convert-the-temperature](https://github.com/shubham98983/leetcode-solutions/tree/master/2556-convert-the-temperature) |
 ## Binary Search
 |  |
@@ -225,4 +227,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/shubham98983/leetcode-solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/shubham98983/leetcode-solutions/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/shubham98983/leetcode-solutions/tree/master/2507-number-of-common-factors) |
+| [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/shubham98983/leetcode-solutions/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 <!---LeetCode Topics End-->
