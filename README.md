@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/shubham98983/leetcode-solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/shubham98983/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/shubham98983/leetcode-solutions/tree/master/0258-add-digits) |
+| [0326-power-of-three](https://github.com/shubham98983/leetcode-solutions/tree/master/0326-power-of-three) |
 | [1370-count-number-of-nice-subarrays](https://github.com/shubham98983/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [2083-three-divisors](https://github.com/shubham98983/leetcode-solutions/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/shubham98983/leetcode-solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/shubham98983/leetcode-solutions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/shubham98983/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/shubham98983/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/shubham98983/leetcode-solutions/tree/master/0326-power-of-three) |
 ## Backtracking
 |  |
 | ------- |
