@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/shubham98983/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/shubham98983/leetcode-solutions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/shubham98983/leetcode-solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/shubham98983/leetcode-solutions/tree/master/0342-power-of-four) |
 | [1370-count-number-of-nice-subarrays](https://github.com/shubham98983/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [2083-three-divisors](https://github.com/shubham98983/leetcode-solutions/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/shubham98983/leetcode-solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/shubham98983/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/shubham98983/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/shubham98983/leetcode-solutions/tree/master/0260-single-number-iii) |
+| [0342-power-of-four](https://github.com/shubham98983/leetcode-solutions/tree/master/0342-power-of-four) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/shubham98983/leetcode-solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Recursion
 |  |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/shubham98983/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/shubham98983/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/shubham98983/leetcode-solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/shubham98983/leetcode-solutions/tree/master/0342-power-of-four) |
 ## Backtracking
 |  |
 | ------- |
