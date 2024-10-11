@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/shubham98983/leetcode-solutions/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/shubham98983/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shubham98983/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Prefix Sum
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/shubham98983/leetcode-solutions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/shubham98983/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shubham98983/leetcode-solutions/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/shubham98983/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1370-count-number-of-nice-subarrays](https://github.com/shubham98983/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [2083-three-divisors](https://github.com/shubham98983/leetcode-solutions/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/shubham98983/leetcode-solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shubham98983/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0412-fizz-buzz](https://github.com/shubham98983/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shubham98983/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
