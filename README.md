@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/shubham98983/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/shubham98983/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/shubham98983/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/shubham98983/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/shubham98983/leetcode-solutions/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/shubham98983/leetcode-solutions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/shubham98983/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/shubham98983/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/shubham98983/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/shubham98983/leetcode-solutions/tree/master/0733-flood-fill) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/shubham98983/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Matrix
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shubham98983/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/shubham98983/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0283-move-zeroes](https://github.com/shubham98983/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/shubham98983/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shubham98983/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/shubham98983/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0496-next-greater-element-i](https://github.com/shubham98983/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/shubham98983/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/shubham98983/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0966-binary-subarrays-with-sum](https://github.com/shubham98983/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/shubham98983/leetcode-solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/shubham98983/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -285,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/shubham98983/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/shubham98983/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/shubham98983/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/shubham98983/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -303,4 +308,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/shubham98983/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/shubham98983/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/shubham98983/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/shubham98983/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/shubham98983/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 <!---LeetCode Topics End-->
