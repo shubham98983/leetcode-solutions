@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/shubham98983/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/shubham98983/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/shubham98983/leetcode-solutions/tree/master/0792-binary-search) |
+| [0890-lemonade-change](https://github.com/shubham98983/leetcode-solutions/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/shubham98983/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [0966-binary-subarrays-with-sum](https://github.com/shubham98983/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/shubham98983/leetcode-solutions/tree/master/1034-subarrays-with-k-different-integers) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/shubham98983/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/shubham98983/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/shubham98983/leetcode-solutions/tree/master/0890-lemonade-change) |
 ## Bit Manipulation
 |  |
 | ------- |
