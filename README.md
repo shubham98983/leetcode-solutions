@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/shubham98983/leetcode-solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/shubham98983/leetcode-solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/shubham98983/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/shubham98983/leetcode-solutions/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/shubham98983/leetcode-solutions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shubham98983/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shubham98983/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shubham98983/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/shubham98983/leetcode-solutions/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shubham98983/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0410-split-array-largest-sum](https://github.com/shubham98983/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 ## Simulation
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/shubham98983/leetcode-solutions/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/shubham98983/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/shubham98983/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/shubham98983/leetcode-solutions/tree/master/0890-lemonade-change) |
