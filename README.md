@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/shubham98983/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/shubham98983/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/shubham98983/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/shubham98983/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/shubham98983/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/shubham98983/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/shubham98983/leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/shubham98983/leetcode-solutions/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shubham98983/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0410-split-array-largest-sum](https://github.com/shubham98983/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/shubham98983/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 ## Simulation
 |  |
 | ------- |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/shubham98983/leetcode-solutions/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/shubham98983/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/shubham98983/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/shubham98983/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/shubham98983/leetcode-solutions/tree/master/0890-lemonade-change) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/shubham98983/leetcode-solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/shubham98983/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/shubham98983/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/shubham98983/leetcode-solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 <!---LeetCode Topics End-->
