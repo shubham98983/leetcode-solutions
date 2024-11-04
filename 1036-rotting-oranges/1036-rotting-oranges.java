@@ -1,13 +1,13 @@
 class Solution {
-    static class Pair{
-        int ro;
-        int co;
+    class Pair{
+        int row;
+        int col;
         int min;
-        public Pair(int ro,int co,int min){
-            this.ro = ro;
-            this.co = co;
-            this.min = min;
-        }
+    public Pair(int row,int col,int min){
+        this.row=row;
+        this.col=col;
+        this.min=min;
+    }
     }
     public int orangesRotting(int[][] grid) {
         int n = grid.length;
@@ -24,13 +24,13 @@ class Solution {
         }
         int delrow[] = {-1,0,1,0};
         int delcol[] = {0,1,0,-1};
-        int minute = 0;
+            int minute =0;
         while(!q.isEmpty()){
-            int row = q.peek().ro;
-            int col = q.peek().co;
-             minute = q.peek().min;
-            q.remove();
-          for(int i=0; i<4; i++){
+            Pair curr = q.poll();
+            int row = curr.row;
+            int col = curr.col;
+             minute = curr.min;
+            for(int i=0; i<4; i++){
             int nrow = row+delrow[i];
             int ncol = col+delcol[i];
             if(nrow>=0 && nrow<n && ncol>=0 && ncol<m && grid[nrow][ncol]==1 && vis[nrow][ncol]==false){
@@ -40,7 +40,7 @@ class Solution {
             }
           }
         }
-        for(int i=0; i<n; i++){
+               for(int i=0; i<n; i++){
             for(int j=0; j<m; j++){
                 if(grid[i][j]==1){
                     minute = -1;
@@ -48,5 +48,5 @@ class Solution {
             }
         }
         return minute;
-            }
+    }
 }
