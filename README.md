@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/shubham98983/leetcode-solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/shubham98983/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/shubham98983/leetcode-solutions/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/shubham98983/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/shubham98983/leetcode-solutions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shubham98983/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shubham98983/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/shubham98983/leetcode-solutions/tree/master/0037-sudoku-solver) |
+| [0063-unique-paths-ii](https://github.com/shubham98983/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0542-01-matrix](https://github.com/shubham98983/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/shubham98983/leetcode-solutions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/shubham98983/leetcode-solutions/tree/master/1036-rotting-oranges) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/shubham98983/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/shubham98983/leetcode-solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/shubham98983/leetcode-solutions/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/shubham98983/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/shubham98983/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shubham98983/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/shubham98983/leetcode-solutions/tree/master/0198-house-robber) |
