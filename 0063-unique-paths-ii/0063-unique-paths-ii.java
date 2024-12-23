@@ -12,24 +12,26 @@ class Solution {
         int n = obstacleGrid.length;
         int m = obstacleGrid[0].length;
         if(obstacleGrid[0][0]==1) return 0;
-        int dp[][] = new int[n][m];
+         int prev[] = new int[m];
         for(int i=0; i<n; i++){
+            int dp[] = new int[m];
             for(int j=0; j<m; j++){
                  if(i==0 && j==0){
-                    dp[i][j]=1;
+                    dp[j]=1;
                     continue;
                  }
                 int up=0;
                 int left=0;
                 if(i>0 && obstacleGrid[i][j]==0){
-                    up = dp[i-1][j];
+                    up = prev[j];
                 }
                 if(j>0 && obstacleGrid[i][j]==0){
-                    left = dp[i][j-1];
+                    left = dp[j-1];
                 }
-                dp[i][j]=up+left;
+                dp[j]=up+left;
             }
+            prev=dp;
         }
-        return dp[n-1][m-1];
+        return prev[m-1];
     }
 }
