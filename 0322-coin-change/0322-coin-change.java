@@ -1,26 +1,27 @@
 class Solution {
-    public static int coinsNeeded(int ind, int amount ,int coins[],int[][] dp){
-        if(ind==0){
-            if(amount%coins[0]==0){
-               return amount / coins[0];
+    public int coinChange(int[] coins, int amount) {
+        if(amount==0) return 0;
+        int n = coins.length;
+        int dp[][] = new int[coins.length][amount+1];
+        for(int i=0; i<=amount; i++){
+            if(i%coins[0]==0){
+                dp[0][i]=i/coins[0];
             }else{
-                return (int)1e9;
+                dp[0][i]=(int)1e9;
             }
         }
-        if(dp[ind][amount]!=-1) return dp[ind][amount];
-        //pick
-        int pick = (int)1e9;
-        if(coins[ind]<=amount)
-        pick = 1 + coinsNeeded(ind,amount-coins[ind],coins,dp);
-        int notPick = 0 +  coinsNeeded(ind-1,amount,coins,dp);
-        return dp[ind][amount] = Math.min(pick,notPick);
-    }
-    public int coinChange(int[] coins, int amount) {
-        int dp[][] = new int[coins.length][amount+1];
-        for(int[] row : dp){
-            Arrays.fill(row,-1);
+        for(int i=1; i<n; i++){
+            for(int j=0; j<=amount; j++){
+                int notTake = 0 + dp[i-1][j];
+                int take = (int)1e9;
+                if(coins[i]<=j){
+                    take = 1 + dp[i][j-coins[i]];
+                }
+                dp[i][j] = Math.min(take,notTake);
+            }
         }
-        int ans = coinsNeeded(coins.length-1,amount,coins,dp);
-       return ans==(int)1e9 ? -1 : ans;
-}
+         int ans = dp[n-1][amount];
+         if(dp[n-1][amount]>=(int)1e9) ans =-1;
+         return ans; 
+    }
 }
