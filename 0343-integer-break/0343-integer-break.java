@@ -11,9 +11,17 @@ class Solution {
     }
     public int integerBreak(int n) {
         int dp[][] = new int[n][n+1];
-        for(int[] row : dp){
-            Arrays.fill(row,-1);
+        for(int i=0; i<=n; i++){
+            dp[1][i]=1;
         }
-        return maxProduct(n-1,n,dp);
+        for(int i=2; i<n; i++){
+            for(int j=0; j<=n; j++){
+                int pick=0;
+                if(i<=j) pick = i*dp[i][j-i];
+                int notPick = dp[i-1][j];
+                dp[i][j] = Math.max(pick,notPick);
+            }
+        }
+        return dp[n-1][n];
     }
 }
