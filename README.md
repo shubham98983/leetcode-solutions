@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/shubham98983/leetcode-solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/shubham98983/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/shubham98983/leetcode-solutions/tree/master/1224-minimum-falling-path-sum-ii) |
+| [1250-longest-common-subsequence](https://github.com/shubham98983/leetcode-solutions/tree/master/1250-longest-common-subsequence) |
 ## Simulation
 |  |
 | ------- |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/shubham98983/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0257-binary-tree-paths](https://github.com/shubham98983/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0412-fizz-buzz](https://github.com/shubham98983/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [1250-longest-common-subsequence](https://github.com/shubham98983/leetcode-solutions/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shubham98983/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
