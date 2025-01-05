@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/shubham98983/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/shubham98983/leetcode-solutions/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1250-longest-common-subsequence](https://github.com/shubham98983/leetcode-solutions/tree/master/1250-longest-common-subsequence) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shubham98983/leetcode-solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Simulation
 |  |
 | ------- |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/shubham98983/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0516-longest-palindromic-subsequence](https://github.com/shubham98983/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/shubham98983/leetcode-solutions/tree/master/1250-longest-common-subsequence) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shubham98983/leetcode-solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shubham98983/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
