@@ -21,10 +21,31 @@ class Solution {
         int n = s.length();
         int m = p.length();
         int dp[][] = new int[n+1][m+1];
-        for(int[] row : dp){
-            Arrays.fill(row,-1);
+           dp[0][0]=1;
+        for(int i=1; i<=n; i++){
+            dp[i][0]=0;
         }
-        int ans = f(s.length()-1,p.length()-1,s,p,dp);
-        return ans==0 ? false :true;
+        int count=0;
+        while(count<p.length()){
+            if(p.charAt(count)=='*'){
+                count++;
+            }else break;
+        }
+        for(int i=1; i<=count; i++){
+            dp[0][i]=1;
+        }
+        for(int i=1; i<=n; i++){
+            for(int j=1; j<=m; j++){
+                if(s.charAt(i-1)==p.charAt(j-1) || p.charAt(j-1)=='?'){
+                    dp[i][j] = dp[i-1][j-1];
+                }
+                else if(p.charAt(j-1)=='*'){
+                    dp[i][j] = (dp[i-1][j]==1) || (dp[i][j-1]==1) ? 1: 0;
+                }else{
+                    dp[i][j] = 0;
+                }
+            }
+        }
+        return dp[n][m]==1 ? true : false;
     }
 }
