@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/shubham98983/leetcode-solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/shubham98983/leetcode-solutions/tree/master/1646-kth-missing-positive-number) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/shubham98983/leetcode-solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/shubham98983/leetcode-solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shubham98983/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/shubham98983/leetcode-solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/shubham98983/leetcode-solutions/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
