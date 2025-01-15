@@ -18,10 +18,18 @@ class Solution {
            cut.add(cuts[i]);
         }
         Collections.sort(cut);
-        int dp[][] = new int[c+1][c+1];
-        for(int row[] : dp){
-            Arrays.fill(row,-1);
+        int dp[][] = new int[c+2][c+2];
+        for(int i=c; i>=1; i--){
+            for(int j=1; j<=c; j++){
+                if(i>j) continue;
+                int mini=Integer.MAX_VALUE;
+            for(int ind=i; ind<=j; ind++){
+                int cost = cut.get(j+1) - cut.get(i-1) +dp[i][ind-1]+dp[ind+1][j];
+                mini = Math.min(mini,cost);
+            }
+              dp[i][j]=mini;
+            }
         }
-        return f(1,c,cut,dp);
+        return dp[1][c];
     }
 }
