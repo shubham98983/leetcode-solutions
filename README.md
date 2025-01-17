@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/shubham98983/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/shubham98983/leetcode-solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/shubham98983/leetcode-solutions/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
+| [3677-maximum-amount-of-money-robot-can-earn](https://github.com/shubham98983/leetcode-solutions/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/shubham98983/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/shubham98983/leetcode-solutions/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/shubham98983/leetcode-solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [3677-maximum-amount-of-money-robot-can-earn](https://github.com/shubham98983/leetcode-solutions/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 ## Two Pointers
 |  |
 | ------- |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/shubham98983/leetcode-solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shubham98983/leetcode-solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/shubham98983/leetcode-solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [3677-maximum-amount-of-money-robot-can-earn](https://github.com/shubham98983/leetcode-solutions/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 ## Simulation
 |  |
 | ------- |
